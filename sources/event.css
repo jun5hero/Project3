@@ -1,0 +1,92 @@
+body{
+  font-family: 'Caveat', cursive;
+  background-color: beige;
+
+}
+
+h1{
+  text-align: center;
+  font-size: 40px;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.image-1 {
+  width: 700px;
+  position: static;
+  transform: rotate(90deg);
+  margin-top: 100px;
+
+}
+
+.image-2 {
+  width: 1200px;
+  margin-top: 100px;
+}
+
+.image-3 {
+  width: 700px;
+  transform: rotate(90deg);
+  margin-top: 100px;
+}
+
+.image-4 {
+  width: 1200px;
+  margin-top: 100px;
+}
+
+.image-5 {
+  width: 1200px;
+}
+
+.image-6 {
+  width: 1200px;
+}
+
+.image-7 {
+  width: 1200px;
+}
+
+.image-8 {
+  width: 1200px;
+}
+
+.image-9 {
+  width: 1200px;
+}
+
+.image-10 {
+  width: 1200px;
+}
+
+.image-11 {
+  width: 1200px;
+}
+
+.image-12 {
+  width: 1200px;
+}
+
+.image-13 {
+  width: 1200px;
+}
+
+.image-14 {
+  width: 1200px;
+}
+.image-15 {
+  width: 1200px;
+}
+
+.image-16 {
+  width: 1200px;
+}
+
+p{
+  font-size: 24px;
+}
