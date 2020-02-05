@@ -1,7 +1,6 @@
 body{
   font-family: 'Caveat', cursive;
   background-color: beige;
-
 }
 
 h1{
@@ -9,12 +8,27 @@ h1{
   font-size: 40px;
 }
 
+
 .center {
   display: block;
   margin-left: auto;
   margin-right: auto;
   width: 50%;
 }
+
+.back{
+  text-align: left;
+  font-size: 25px;
+}
+
+
+.shift{
+  display: flex;
+  justify-content: space-between;
+  font-size: 30px;
+}
+
+
 
 .image-1 {
   width: 700px;
